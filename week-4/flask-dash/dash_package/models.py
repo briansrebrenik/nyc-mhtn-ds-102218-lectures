@@ -1,5 +1,3 @@
-
-from sqlalchemy import Column, Integer, Text
 from dash_package import db
 class Listing(db.Model):
     __tablename__ = 'listings'
