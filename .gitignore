@@ -1,0 +1,6 @@
+# IPython notebook
+.ipynb_checkpoints
+
+# Misc
+.DS_Store
+__pycache__/
